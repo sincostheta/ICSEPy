@@ -1,0 +1,122 @@
+[
+  {
+    "User_ID": 1,
+    "Daily_Screen_Time": 120,
+    "Primary_App_Used": "YouTube",
+    "Subscription_Status": "Premium"
+  },
+  {
+    "User_ID": 2,
+    "Daily_Screen_Time": 85,
+    "Primary_App_Used": "Instagram",
+    "Subscription_Status": "Free"
+  },
+  {
+    "User_ID": 3,
+    "Daily_Screen_Time": 200,
+    "Primary_App_Used": "Netflix",
+    "Subscription_Status": "Premium"
+  },
+  {
+    "User_ID": 4,
+    "Daily_Screen_Time": 60,
+    "Primary_App_Used": "Twitter",
+    "Subscription_Status": "Free"
+  },
+  {
+    "User_ID": 5,
+    "Daily_Screen_Time": 150,
+    "Primary_App_Used": "YouTube",
+    "Subscription_Status": "Premium"
+  },
+  {
+    "User_ID": 6,
+    "Daily_Screen_Time": 45,
+    "Primary_App_Used": "Facebook",
+    "Subscription_Status": "Free"
+  },
+  {
+    "User_ID": 7,
+    "Daily_Screen_Time": 180,
+    "Primary_App_Used": "Netflix",
+    "Subscription_Status": "Premium"
+  },
+  {
+    "User_ID": 8,
+    "Daily_Screen_Time": 95,
+    "Primary_App_Used": "Instagram",
+    "Subscription_Status": "Free"
+  },
+  {
+    "User_ID": 9,
+    "Daily_Screen_Time": 210,
+    "Primary_App_Used": "YouTube",
+    "Subscription_Status": "Premium"
+  },
+  {
+    "User_ID": 10,
+    "Daily_Screen_Time": 30,
+    "Primary_App_Used": "Twitter",
+    "Subscription_Status": "Free"
+  },
+  {
+    "User_ID": 11,
+    "Daily_Screen_Time": 130,
+    "Primary_App_Used": "Spotify",
+    "Subscription_Status": "Premium"
+  },
+  {
+    "User_ID": 12,
+    "Daily_Screen_Time": 75,
+    "Primary_App_Used": "Facebook",
+    "Subscription_Status": "Free"
+  },
+  {
+    "User_ID": 13,
+    "Daily_Screen_Time": 160,
+    "Primary_App_Used": "Netflix",
+    "Subscription_Status": "Premium"
+  },
+  {
+    "User_ID": 14,
+    "Daily_Screen_Time": 55,
+    "Primary_App_Used": "Instagram",
+    "Subscription_Status": "Free"
+  },
+  {
+    "User_ID": 15,
+    "Daily_Screen_Time": 190,
+    "Primary_App_Used": "YouTube",
+    "Subscription_Status": "Premium"
+  },
+  {
+    "User_ID": 16,
+    "Daily_Screen_Time": 40,
+    "Primary_App_Used": "Twitter",
+    "Subscription_Status": "Free"
+  },
+  {
+    "User_ID": 17,
+    "Daily_Screen_Time": 175,
+    "Primary_App_Used": "Spotify",
+    "Subscription_Status": "Premium"
+  },
+  {
+    "User_ID": 18,
+    "Daily_Screen_Time": 110,
+    "Primary_App_Used": "Facebook",
+    "Subscription_Status": "Free"
+  },
+  {
+    "User_ID": 19,
+    "Daily_Screen_Time": 220,
+    "Primary_App_Used": "Netflix",
+    "Subscription_Status": "Premium"
+  },
+  {
+    "User_ID": 20,
+    "Daily_Screen_Time": 65,
+    "Primary_App_Used": "Instagram",
+    "Subscription_Status": "Free"
+  }
+]
