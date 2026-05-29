@@ -7,6 +7,8 @@ A GitHub repo storing my Python and other files related to my Python Project.
 
 `top_200_youtubers.csv` is another dataset from Kaggle, however, it has been modified to not have one of the categories as it had (in my opinion) values that didn't make sense.
 
+the files are not in chronological order i am not fixing that gn
+
 # Credits
 [Kaggle](https://www.kaggle.com/) - Datasets for Q15, and Q14
 
